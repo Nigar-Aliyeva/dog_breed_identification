@@ -5,7 +5,7 @@
 </div>
 
 ## Introduction
-The Keras mobilenet_v2 model is trained on the 10k+ images from [Kaggle](https://www.kaggle.com/c/dog-breed-identification/data) among 120 classes to identify breed of a dog. 
+The Keras mobilenet_v2 model underwent training using over 10,000 images sourced from [Kaggle's dog breed identification dataset](https://www.kaggle.com/c/dog-breed-identification/data), comprising 120 different classes. Its purpose was to accurately identify the breed of a given dog. For evaluation purposes, the model utilized the Multi Class Log Loss method, resulting in a score of 0.0167 after being trained on the complete dataset after preventing overfitting.
 
 ## Data
 For each unique breed there's roughly more than 80 pictures:
