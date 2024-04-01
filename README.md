@@ -12,6 +12,3 @@ For each unique breed there's roughly more than 80 pictures and labels according
 
 ## 💠 Final results
 ![image](https://github.com/nika-va/dog_breed_identification/assets/110852167/630e0e15-e826-400e-8453-aaae8eccd473)
-
-## 💠 Contributions
-I welcome and encourage contributions of any kind to the project from individuals like you! 😊
